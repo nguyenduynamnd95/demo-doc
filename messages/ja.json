@@ -1,0 +1,47 @@
+{
+  "tableActions": {
+    "actions": "行動",
+    "edit": "変更",
+    "delete": "削除"
+  },
+  "dataTable": {
+    "noData": "該当なし。"
+  },
+  "alert": {
+    "error": "エラー",
+    "success": "成功"
+  },
+  "login": {
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "orLoginAsAdmin": "または管理者としてログイン",
+    "loginWithKintone": "Kintoneでサインイン",
+    "errorAccessDenied": "アクセス拒否"
+  },
+  "sidebar": {
+    "documents": "資料",
+    "reports": "レポート",
+    "logout": "ログアウト"
+  },
+  "documents": {
+    "title": "タイトル",
+    "versionsDialogTitle": "バージョン",
+    "version": "バージョン",
+    "updatedAt": "更新時間",
+    "pages": "ページ",
+    "author": "著者",
+    "desc": "記述",
+    "read": "読む"
+  },
+  "docviewer": {
+    "save": "セーブ",
+    "delete": "削除",
+    "score": "スコア",
+    "search": "検索",
+    "notes": "備考",
+    "bookmarks": "ブックマーク",
+    "outline": "目次",
+    "searchDesc": "文書の内容を検索する用語を入力します。",
+    "noteAdd": "注釈を加える"
+  }
+}
